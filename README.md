@@ -2,4 +2,4 @@
 
 This repository contains resources for the project "Categorizing Sentiments of Pandemic Tweet-NLP."
 
-You can [see/download the research paper](./Research%20Paper.pdf) for more details.
+You can [download the research paper for more information](./Research%20Paper.pdf) for more details.
